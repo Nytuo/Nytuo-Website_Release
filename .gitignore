@@ -65,6 +65,6 @@ node_modules/
 # dotenv environment variables file
 .env
 
-public/.well-know
+public/.well-know/
 public/BingSiteAuth.xml
 public/google15978c4324ab7cef.html
